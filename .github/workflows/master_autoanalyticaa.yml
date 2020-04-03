@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'autoanalyticaa'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_08b962e9d05247a19333a53972950b8d }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_86b65f2f87d54a06a76bb93323f5a8c5 }}
